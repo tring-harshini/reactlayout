@@ -1,0 +1,6 @@
+.navigation{
+    grid-column-start: 1;
+    grid-column-end: 4;
+    background-color: #FFF587;
+  }
+  
